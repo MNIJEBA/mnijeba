@@ -1,74 +1,47 @@
 <div align="center">
 
 <!-- ═══════════════════════════════════════════════════════════ -->
+
 <!--                    🌌 COSMIC HERO                          -->
+
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-![JEBA GRACY C](https://capsule-render.vercel.app/api?type=waving&color=0:020617,20:0f172a,40:1e1b4b,60:312e81,80:172554,100:020617&height=300&section=header&text=JEBA%20GRACY%20C&fontSize=60&fontColor=ffffff&fontAlignY=40&fontAlign=50&desc=M.Tech%20Computer%20Science%20%26%20Engineering%20%7C%20Software%20Engineering&descSize=14&descAlignY=62&descAlign=50&animation=twinkling&stroke=8b5cf6&strokeWidth=2)
+
 
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    ✨ TYPING ANIMATION                      -->
+
+<!--                    ✨ TYPING ANIMATION                     -->
+
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=18&duration=2600&pause=900&color=67E8F9&center=true&vCenter=true&width=850&lines=Welcome+to+my+digital+universe+%F0%9F%8C%8C;M.Tech+Computer+Science+%26+Engineering+Student+%F0%9F%92%BB;Software+Engineering+Enthusiast+%F0%9F%9A%80;Building+Technology+with+Purpose+%F0%9F%8C%8D;Hackathon+Participant+%7C+Problem+Solver+%7C+Learner+%F0%9F%92%A1;Learning+%E2%86%92+Building+%E2%86%92+Innovating+%E2%9C%A8)](https://git.io/typing-svg)
+
 
 <br/><br/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
+
 <!--                    🌠 COSMIC BADGES                        -->
+
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-![Digital Explorer](https://img.shields.io/badge/%F0%9F%8C%8C_DIGITAL_EXPLORER-020617?style=for-the-badge&logoColor=white)
-&nbsp;
-![CSE](https://img.shields.io/badge/%F0%9F%92%BB_CSE-1e3a8a?style=for-the-badge&logoColor=white)
-&nbsp;
-![Building the Future](https://img.shields.io/badge/%F0%9F%9A%80_BUILDING_THE_FUTURE-7c3aed?style=for-the-badge&logoColor=white)
+
+ 
+
+ 
+
 
 <br/><br/>
 
-![Profile Visitors](https://komarev.com/ghpvc/?username=MNIJEBA&style=for-the-badge&color=7c3aed&label=PROFILE+VISITORS)
+
 
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--                  🌠 COSMIC STATUS BADGES                  -->
-<!-- ═══════════════════════════════════════════════════════════ -->
 
-<img src="https://img.shields.io/badge/🌌_DIGITAL_EXPLORER-020617?style=for-the-badge&amp;logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/💻_CSE-1e3a8a?style=for-the-badge&amp;logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/🚀_BUILDING_THE_FUTURE-7c3aed?style=for-the-badge&amp;logoColor=white"/>
-
-<br/><br/>
-
-<img
-src="https://komarev.com/ghpvc/?username=MNIJEBA&amp;style=for-the-badge&amp;color=7c3aed&amp;label=PROFILE+VISITORS"
-/>
-
-</div>
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                     COSMIC BADGES                           -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<img src="https://img.shields.io/badge/🌌_DIGITAL_EXPLORER-020617?style=for-the-badge&amp;logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/💻_CSE-1e3a8a?style=for-the-badge&amp;logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/🚀_BUILDING_THE_FUTURE-7c3aed?style=for-the-badge&amp;logoColor=white"/>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=MNIJEBA&amp;style=for-the-badge&amp;color=7c3aed&amp;label=VISITORS"/>
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
 <!--                         INTRO                               -->
+
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -79,57 +52,53 @@ src="https://komarev.com/ghpvc/?username=MNIJEBA&amp;style=for-the-badge&amp;col
 
 <div align="center">
 
-# 🌙 Hello, I'm **JEBA GRACY C**
+🌙 Hello, I'm JEBA GRACY C
 
-### *Exploring the universe of Computer Science, AI & Innovation*
+Exploring the universe of Computer Science, AI & Innovation
 
 </div>
 
 <br/>
 
+<table align="center">
 <tr>
+<td width="100%" valign="top">
 
-<td width="55%" valign="top">
+🚀 About Me
 
-### 🚀 About Me
+🎓 M.Tech Computer Science & Engineering (Integrated)
 
-🎓 **M.Tech Computer Science & Engineering (Integrated)**
+🏫 St. Joseph's College of Engineering, Chennai
 
-🏫 **St. Joseph's College of Engineering, Chennai**
+📊 CGPA — 8.69
 
-📊 **CGPA — 8.69**
+🤖 Passionate about Artificial Intelligence & Machine Learning
 
-🤖 Passionate about **Artificial Intelligence & Machine Learning**
+💻 Interested in Software Engineering
 
-💻 Interested in **Software Engineering**
+📊 Exploring Data Science & Data Analytics
 
-📊 Exploring **Data Science & Data Analytics**
+🌱 Currently strengthening my Python skills
 
-🌱 Currently strengthening my **Python** skills
+🏆 Passionate about Hackathons & Innovation
 
-🏆 Passionate about **Hackathons & Innovation**
+🌍 Interested in building socially responsible technology
 
-🌍 Interested in building **socially responsible technology**
-
-✨ *Turning ideas into meaningful digital experiences.*
-
-</td>
-
-
+✨ Turning ideas into meaningful digital experiences.
 
 </td>
-
 </tr>
-
----
+</table>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
+
 <!--                  PROFESSIONAL SUMMARY                       -->
+
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-## 🌌 Professional Summary
+🌌 Professional Summary
 
 </div>
 
@@ -137,21 +106,21 @@ src="https://komarev.com/ghpvc/?username=MNIJEBA&amp;style=for-the-badge&amp;col
 <tr>
 <td align="center">
 
-> **Motivated and enthusiastic M.Tech Computer Science & Engineering student with a strong interest in Software Engineering, Artificial Intelligence, and Machine Learning. Passionate about building impactful and socially responsible technology solutions through projects, hackathons, and continuous learning.**
+Motivated and enthusiastic M.Tech Computer Science & Engineering student with a strong interest in Software Engineering, Artificial Intelligence, and Machine Learning. Passionate about building impactful and socially responsible technology solutions through projects, hackathons, and continuous learning.
 
 </td>
 </tr>
 </table>
 
----
-
 <!-- ═══════════════════════════════════════════════════════════ -->
+
 <!--                        EDUCATION                            -->
+
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-## 🎓 Education
+🎓 Education
 
 <br/>
 
@@ -164,15 +133,15 @@ src="https://komarev.com/ghpvc/?username=MNIJEBA&amp;style=for-the-badge&amp;col
 
 <td align="center">
 
-### 🛰️ M.Tech Computer Science & Engineering
+🛰️ M.Tech Computer Science & Engineering
 
-**Integrated Programme**
+Integrated Programme
 
 <br/>
 
-### 🏛️ St. Joseph's College of Engineering
+🏛️ St. Joseph's College of Engineering
 
-**Chennai, India**
+Chennai, India
 
 <br/>
 
@@ -183,15 +152,15 @@ src="https://komarev.com/ghpvc/?username=MNIJEBA&amp;style=for-the-badge&amp;col
 </tr>
 </table>
 
----
-
 <!-- ═══════════════════════════════════════════════════════════ -->
+
 <!--                      SKILLS                                 -->
+
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-# 🛠️ Skills & Tech Universe
+🛠️ Skills & Tech Universe
 
 <img width="100" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/space.gif"/>
 
@@ -203,7 +172,7 @@ src="https://komarev.com/ghpvc/?username=MNIJEBA&amp;style=for-the-badge&amp;col
 
 <td align="center" width="50%">
 
-## 💻 Programming
+💻 Programming
 
 <br/>
 
@@ -220,7 +189,7 @@ src="https://komarev.com/ghpvc/?username=MNIJEBA&amp;style=for-the-badge&amp;col
 
 <td align="center" width="50%">
 
-## 🤖 AI / ML
+🤖 AI / ML
 
 <br/>
 
@@ -241,7 +210,7 @@ src="https://komarev.com/ghpvc/?username=MNIJEBA&amp;style=for-the-badge&amp;col
 
 <td align="center" width="50%">
 
-## 🧰 Tools & Design
+🧰 Tools & Design
 
 <br/>
 
@@ -257,7 +226,7 @@ src="https://komarev.com/ghpvc/?username=MNIJEBA&amp;style=for-the-badge&amp;col
 
 <td align="center" width="50%">
 
-## 🌐 Platforms
+🌐 Platforms
 
 <br/>
 
@@ -280,7 +249,7 @@ src="https://komarev.com/ghpvc/?username=MNIJEBA&amp;style=for-the-badge&amp;col
 
 <div align="center">
 
-### 🌌 Technology Constellation
+🌌 Technology Constellation
 
 <img src="https://skillicons.dev/icons?i=c,cpp,html,python,git,vscode&amp;theme=dark&amp;perline=6"/>
 
@@ -294,17 +263,17 @@ src="https://komarev.com/ghpvc/?username=MNIJEBA&amp;style=for-the-badge&amp;col
 
 </div>
 
----
-
 <!-- ═══════════════════════════════════════════════════════════ -->
+
 <!--                         PROJECTS                            -->
+
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-# 🚀 Mission Control — Projects
+🚀 Mission Control — Projects
 
-### *Ideas launched into the digital universe*
+Ideas launched into the digital universe
 
 </div>
 
@@ -314,7 +283,7 @@ src="https://komarev.com/ghpvc/?username=MNIJEBA&amp;style=for-the-badge&amp;col
 
 <td width="50%" valign="top">
 
-### 🌱 Eco Hero Academy
+🌱 Eco Hero Academy
 
 <a href="https://eco-hero-academy-d09f854e.base44.app">
 
@@ -324,7 +293,7 @@ src="https://komarev.com/ghpvc/?username=MNIJEBA&amp;style=for-the-badge&amp;col
 
 <br/><br/>
 
-An **eco-friendly gamified platform for students**, designed to encourage environmental awareness and sustainable habits through interactive learning.
+An eco-friendly gamified platform for students, designed to encourage environmental awareness and sustainable habits through interactive learning.
 
 <br/><br/>
 
@@ -336,7 +305,7 @@ An **eco-friendly gamified platform for students**, designed to encourage enviro
 
 <td width="50%" valign="top">
 
-### 🌾 Vana Setu
+🌾 Vana Setu
 
 <a href="https://lovable.dev/preview/2yLqdez72Hguas53DJpeO7s1Ue60Tc1E">
 
@@ -346,7 +315,7 @@ An **eco-friendly gamified platform for students**, designed to encourage enviro
 
 <br/><br/>
 
-An **SDG-focused farmer support platform** inspired by **SIH 2025**, using technology to support farmers and sustainable development.
+An SDG-focused farmer support platform inspired by SIH 2025, using technology to support farmers and sustainable development.
 
 <br/><br/>
 
@@ -362,7 +331,7 @@ An **SDG-focused farmer support platform** inspired by **SIH 2025**, using techn
 
 <td width="50%" valign="top">
 
-### 🌦️ Weather GPT
+🌦️ Weather GPT
 
 <a href="https://t.me/weatherpromptobot">
 
@@ -372,7 +341,7 @@ An **SDG-focused farmer support platform** inspired by **SIH 2025**, using techn
 
 <br/><br/>
 
-A **conversational AI weather assistant** providing weather forecasts, alerts and climate information through Telegram. Inspired by **SIH 2026**.
+A conversational AI weather assistant providing weather forecasts, alerts and climate information through Telegram. Inspired by SIH 2026.
 
 <br/><br/>
 
@@ -384,7 +353,7 @@ A **conversational AI weather assistant** providing weather forecasts, alerts an
 
 <td width="50%" valign="top">
 
-### 🫁 Respiratory System Interactive Study Guide
+🫁 Respiratory System Interactive Study Guide
 
 <a href="https://ai.studio/apps/b792e07c-6b67-460d-82f2-8f356b2cac9a">
 
@@ -394,7 +363,7 @@ A **conversational AI weather assistant** providing weather forecasts, alerts an
 
 <br/><br/>
 
-Interactive **study guide for medical coding students of Horizon Coding Solutions**, designed to make respiratory system concepts easier to understand.
+Interactive study guide for medical coding students of Horizon Coding Solutions, designed to make respiratory system concepts easier to understand.
 
 <br/><br/>
 
@@ -410,7 +379,7 @@ Interactive **study guide for medical coding students of Horizon Coding Solution
 
 <td width="50%" valign="top">
 
-### 🗺️ Miles and Memories
+🗺️ Miles and Memories
 
 <a href="https://ai.studio/apps/4a74e3cb-82bb-40ff-8d09-7926912a9e1c">
 
@@ -420,7 +389,7 @@ Interactive **study guide for medical coding students of Horizon Coding Solution
 
 <br/><br/>
 
-A **tourist guide application** created during a soft skills training class to help users explore destinations and create memorable travel experiences.
+A tourist guide application created during a soft skills training class to help users explore destinations and create memorable travel experiences.
 
 <br/><br/>
 
@@ -432,25 +401,25 @@ A **tourist guide application** created during a soft skills training class to h
 
 <td width="50%" valign="top">
 
-### 🌌 Building With Purpose
+🌌 Building With Purpose
 
 <br/>
 
-🌱 **Sustainability**
+🌱 Sustainability
 
-🌾 **Agriculture**
+🌾 Agriculture
 
-🌦️ **Weather & Climate**
+🌦️ Weather & Climate
 
-🫁 **Healthcare Education**
+🫁 Healthcare Education
 
-🤖 **Artificial Intelligence**
+🤖 Artificial Intelligence
 
-📚 **Interactive Learning**
+📚 Interactive Learning
 
 <br/><br/>
 
-> *Technology becomes meaningful when it solves real problems.*
+Technology becomes meaningful when it solves real problems.
 
 </td>
 
@@ -458,15 +427,15 @@ A **tourist guide application** created during a soft skills training class to h
 
 </table>
 
----
-
 <!-- ═══════════════════════════════════════════════════════════ -->
+
 <!--                    ACHIEVEMENTS                             -->
+
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-# 🏆 Achievements & Participation
+🏆 Achievements & Participation
 
 <br/>
 
@@ -482,19 +451,19 @@ A **tourist guide application** created during a soft skills training class to h
 <tr>
 <td align="center">
 
-### 🚀 Hackathon Journey
+🚀 Hackathon Journey
 
-**Makethon 2.0**  
+Makethon 2.0
 🥇 Winner
 
 <br/>
 
-**Eclearnix Hackathon 360 Degrees**  
+Eclearnix Hackathon 360 Degrees
 🚀 Participant
 
 <br/>
 
-**Smart India Hackathon**  
+Smart India Hackathon
 🎯 Shortlisted — Internal Level
 
 </td>
@@ -503,17 +472,17 @@ A **tourist guide application** created during a soft skills training class to h
 
 </div>
 
----
-
 <!-- ═══════════════════════════════════════════════════════════ -->
+
 <!--                  CERTIFICATIONS                            -->
+
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-# 📜 Certifications & Courses
+📜 Certifications & Courses
 
-### *Knowledge is another kind of superpower.*
+Knowledge is another kind of superpower.
 
 </div>
 
@@ -523,57 +492,57 @@ A **tourist guide application** created during a soft skills training class to h
 
 <td width="50%" valign="top">
 
-### 🏅 NPTEL
+🏅 NPTEL
 
-🐍 **Python for Data Science**
-
-<br/>
-
-### 🏆 NASSCOM
-
-🤖 **Artificial Intelligence, Machine Learning & Data Analytics**
-
-🏅 **Gold Medal**
+🐍 Python for Data Science
 
 <br/>
 
-### 🎓 Coursera
+🏆 NASSCOM
 
-🐍 **Create Your First Python Program From UST**
+🤖 Artificial Intelligence, Machine Learning & Data Analytics
 
-📊 **Introduction to Data Analysis**
+🏅 Gold Medal
 
-📈 **Overview of Data Visualization**
+<br/>
+
+🎓 Coursera
+
+🐍 Create Your First Python Program From UST
+
+📊 Introduction to Data Analysis
+
+📈 Overview of Data Visualization
 
 </td>
 
 <td width="50%" valign="top">
 
-### 💻 Infosys Springboard
+💻 Infosys Springboard
 
-☕ **Java Programming Fundamentals**
-
-<br/>
-
-### 🛡️ Cisco
-
-🔐 **Introduction to Cybersecurity**
-
-💻 **Operating Systems Support**
+☕ Java Programming Fundamentals
 
 <br/>
 
-### 🧠 Additional Learning
+🛡️ Cisco
 
-🐍 **Object Oriented Programming using Python**
+🔐 Introduction to Cybersecurity
 
-⚛️ **ReactJS**
+💻 Operating Systems Support
 
-📊 **Business Analysis & Process Management**
+<br/>
 
-📈 **Introduction to Data Analysis using Microsoft Excel**
+🧠 Additional Learning
 
-📉 **Trading In The Zone – Elementary**
+🐍 Object Oriented Programming using Python
+
+⚛️ ReactJS
+
+📊 Business Analysis & Process Management
+
+📈 Introduction to Data Analysis using Microsoft Excel
+
+📉 Trading In The Zone – Elementary
 
 </td>
 
@@ -591,15 +560,15 @@ A **tourist guide application** created during a soft skills training class to h
 
 </div>
 
----
-
 <!-- ═══════════════════════════════════════════════════════════ -->
+
 <!--                     CODING                                 -->
+
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-# 💻 Coding Universe
+💻 Coding Universe
 
 <br/>
 
@@ -609,15 +578,14 @@ A **tourist guide application** created during a soft skills training class to h
 
 </a>
 
-&nbsp;&nbsp;&nbsp;
+   
 
 <img src="https://img.shields.io/badge/Skillrack-430%2B_Problems_Solved-06b6d4?style=for-the-badge"/>
 
 <br/><br/>
 
-### 🧩 Problem Solving
+🧩 Problem Solving
 
-```text
           ┌───────────────────────────┐
           │       CODING JOURNEY      │
           └─────────────┬─────────────┘

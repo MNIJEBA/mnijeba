@@ -14,7 +14,7 @@
 
 <a href="https://git.io/typing-svg">
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&amp;size=18&amp;duration=2600&amp;pause=900&amp;color=67E8F9&amp;center=true&amp;vCenter=true&amp;width=850&amp;lines=Welcome+to+my+digital+universe+%F0%9F%8C%8C;M.Tech+Computer+Science+%26amp%3B+Engineering+Student+%F0%9F%92%BB;Artificial+Intelligence+%26amp%3B+Machine+Learning+Enthusiast+%F0%9F%A4%96;Software+Engineering+%26amp%3B+Problem+Solving+%F0%9F%9A%80;Building+Technology+with+Purpose+%F0%9F%8C%8D;Learning+%E2%86%92+Building+%E2%86%92+Innovating+%E2%9C%A8"/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&amp;size=18&amp;duration=2600&amp;pause=900&amp;color=67E8F9&amp;center=true&amp;vCenter=true&amp;width=850&amp;lines=Welcome+to+my+digital+universe+%F0%9F%8C%8C;M.Tech+Computer+Science+%26amp%3B+Engineering+Student+%F0%9F%92%BB;Software+Engineering+%26amp%3B+Problem+Solving+%F0%9F%9A%80;Building+Technology+with+Purpose+%F0%9F%8C%8D;Learning+%E2%86%92+Building+%E2%86%92+Innovating+%E2%9C%A8"/>
 
 </a>
 
@@ -25,8 +25,6 @@
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <img src="https://img.shields.io/badge/🌌_DIGITAL_EXPLORER-020617?style=for-the-badge&amp;logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/🤖_AI_%26_ML-312e81?style=for-the-badge&amp;logoColor=white"/>
 &nbsp;
 <img src="https://img.shields.io/badge/💻_CSE-1e3a8a?style=for-the-badge&amp;logoColor=white"/>
 &nbsp;

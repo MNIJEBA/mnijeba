@@ -1,168 +1,148 @@
 <div align="center">
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-
-<!--                    🌌 COSMIC HERO                          -->
-
+<!--                       COSMIC HERO                           -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:030014,25:10002b,50:240046,75:3c096c,100:030014&height=300&section=header&text=JEBA%20GRACY%20C&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=M.Tech%20Computer%20Science%20%26%20Engineering%20%7C%20AI%20%26%20Data%20%7C%20Creative%20Builder&descSize=15&descAlignY=58&animation=fadeIn&stroke=9d4edd&strokeWidth=2"/>
 
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-
-<!--                    ✨ TYPING ANIMATION                     -->
-
+<!--                       TYPING ANIMATION                      -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=19&duration=2600&pause=900&color=C77DFF&center=true&vCenter=true&width=850&lines=M.Tech+Computer+Science+%26+Engineering+%F0%9F%92%BB;C+%7C+C%2B%2B+%7C+HTML+%7C+Python+%F0%9F%90%8D;AI+%26+Data+Analytics+Enthusiast+%F0%9F%A4%96;Creative+Problem+Solver+%F0%9F%8C%8C;Building+Ideas+into+Interactive+Experiences+%E2%9C%A8;Always+Learning.+Always+Creating.+%F0%9F%9A%80"/>
 
 <br/><br/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- Animated Developer GIF -->
 
-<!--                    🌠 COSMIC BADGES                        -->
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-
- 
-
- 
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="450"/>
 
 <br/><br/>
 
+![Profile Views](https://komarev.com/ghpvc/?username=Jeba-Gracy&style=for-the-badge&color=9d4edd&label=PROFILE+VIEWS)
 
+![Cosmic Explorer](https://img.shields.io/badge/Cosmic_Explorer-✨-7b2cbf?style=for-the-badge)
+
+![Always Learning](https://img.shields.io/badge/Always-Learning-c77dff?style=for-the-badge)
 
 </div>
 
+---
+
 <!-- ═══════════════════════════════════════════════════════════ -->
-
-<!--                         INTRO                               -->
-
+<!--                         ABOUT ME                            -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img width="280" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
+# 🌌 ABOUT ME
 
 </div>
+
+<img align="right" width="360" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
+
+### 👋 Hello, I'm **Jeba Gracy C**
+
+🎓 **M.Tech – Computer Science and Engineering**
+
+🏫 **St. Joseph's College of Engineering**
+
+💻 Passionate about **Programming, Artificial Intelligence & Data Analytics**
+
+🐍 Currently learning and improving my **Python** skills
+
+🧠 Interested in **AI, Machine Learning and Data-driven solutions**
+
+📊 Exploring datasets and data science through **Kaggle**
+
+🎨 Enjoy creating attractive digital experiences using **Canva**
+
+🚀 Building projects using modern **AI-powered development platforms**
+
+🌱 Always curious to learn something new and turn ideas into useful projects.
+
+<br clear="all"/>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    PROFILE HIGHLIGHTS                       -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-🌙 Hello, I'm JEBA GRACY C
+# ✨ PROFILE HIGHLIGHTS
 
-Exploring the universe of Computer Science, AI & Innovation
+<table>
 
-</div>
-
-<br/>
-
-<table align="center">
 <tr>
-<td width="100%" valign="top">
 
-🚀 About Me
+<td align="center" width="25%">
 
-🎓 M.Tech Computer Science & Engineering (Integrated)
+### 🎓
 
-🏫 St. Joseph's College of Engineering, Chennai
+**EDUCATION**
 
-📊 CGPA — 8.69
-
-🤖 Passionate about Artificial Intelligence & Machine Learning
-
-💻 Interested in Software Engineering
-
-📊 Exploring Data Science & Data Analytics
-
-🌱 Currently strengthening my Python skills
-
-🏆 Passionate about Hackathons & Innovation
-
-🌍 Interested in building socially responsible technology
-
-✨ Turning ideas into meaningful digital experiences.
+M.Tech  
+Computer Science & Engineering
 
 </td>
-</tr>
-</table>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
+<td align="center" width="25%">
 
-<!--                  PROFESSIONAL SUMMARY                       -->
+### 💻
 
-<!-- ═══════════════════════════════════════════════════════════ -->
+**PROGRAMMING**
 
-<div align="center">
-
-🌌 Professional Summary
-
-</div>
-
-<table align="center">
-<tr>
-<td align="center">
-
-Motivated and enthusiastic M.Tech Computer Science & Engineering student with a strong interest in Software Engineering, Artificial Intelligence, and Machine Learning. Passionate about building impactful and socially responsible technology solutions through projects, hackathons, and continuous learning.
+C  
+C++  
+HTML  
+Python
 
 </td>
-</tr>
-</table>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
+<td align="center" width="25%">
 
-<!--                        EDUCATION                            -->
+### 🤖
 
-<!-- ═══════════════════════════════════════════════════════════ -->
+**INTERESTS**
 
-<div align="center">
+AI  
+Data Analytics  
+Technology
 
-🎓 Education
+</td>
 
-<br/>
+<td align="center" width="25%">
 
-<img src="https://img.shields.io/badge/2025_%E2%80%94_PRESENT-8b5cf6?style=for-the-badge"/>
+### 🚀
 
-</div>
+**BUILDING**
 
-<table align="center">
-<tr>
-
-<td align="center">
-
-🛰️ M.Tech Computer Science & Engineering
-
-Integrated Programme
-
-<br/>
-
-🏛️ St. Joseph's College of Engineering
-
-Chennai, India
-
-<br/>
-
-<img src="https://img.shields.io/badge/CGPA-8.69-06b6d4?style=for-the-badge"/>
+AI Apps  
+Learning Platforms  
+Smart Solutions
 
 </td>
 
 </tr>
+
 </table>
 
+</div>
+
+---
+
 <!-- ═══════════════════════════════════════════════════════════ -->
-
-<!--                      SKILLS                                 -->
-
+<!--                    SKILLS & TECH STACK                      -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-🛠️ Skills & Tech Universe
-
-<img width="100" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/space.gif"/>
+# 🛠️ SKILLS & TECH STACK
 
 </div>
 
@@ -172,35 +152,39 @@ Chennai, India
 
 <td align="center" width="50%">
 
-💻 Programming
+## 💻 LANGUAGES
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=c,cpp,html,python&amp;theme=dark&amp;perline=4"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,html,python&theme=dark&perline=4"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/C-00599C?style=flat-square&amp;logo=c&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&amp;logo=cplusplus&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-Learning-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white"/>
+![C](https://img.shields.io/badge/C-Programming-3949AB?style=for-the-badge&logo=c&logoColor=white)
+
+![C++](https://img.shields.io/badge/C%2B%2B-Programming-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+![HTML](https://img.shields.io/badge/HTML5-Markup-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 </td>
 
 <td align="center" width="50%">
 
-🤖 AI / ML
+## 🧰 TOOLS
 
 <br/>
 
-<img src="https://img.shields.io/badge/Artificial_Intelligence-7c3aed?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Machine_Learning-06b6d4?style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=git,vscode&theme=dark&perline=3"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Data_Science-10b981?style=flat-square"/>
-<img src="https://img.shields.io/badge/Data_Analytics-f59e0b?style=flat-square"/>
-<img src="https://img.shields.io/badge/Data_Visualization-6366f1?style=flat-square"/>
+![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+![VS Code](https://img.shields.io/badge/VS_Code-Development-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+![Canva](https://img.shields.io/badge/Canva-Design-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 </td>
 
@@ -208,36 +192,47 @@ Chennai, India
 
 <tr>
 
-<td align="center" width="50%">
+<td colspan="2" align="center">
 
-🧰 Tools & Design
+## 🌐 PLATFORMS
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=git,vscode&amp;theme=dark&amp;perline=2"/>
+![Kaggle](https://img.shields.io/badge/Kaggle-Data_Science-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 
-<br/><br/>
+![Replit](https://img.shields.io/badge/Replit-Development-F26207?style=for-the-badge&logo=replit&logoColor=white)
 
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&amp;logo=visualstudiocode&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&amp;logo=canva&amp;logoColor=white"/>
+![Lovable](https://img.shields.io/badge/Lovable-AI_Development-FF69B4?style=for-the-badge)
+
+![Base44](https://img.shields.io/badge/Base44-App_Development-6C63FF?style=for-the-badge)
 
 </td>
 
-<td align="center" width="50%">
+</tr>
 
-🌐 Platforms
+<tr>
 
-<br/>
+<td colspan="2" align="center">
 
-<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&amp;logo=kaggle&amp;logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Replit-F26207?style=for-the-badge&amp;logo=replit&amp;logoColor=white"/>
+## 🔌 CSE / IoT STACK
 
 <br/>
 
-<img src="https://img.shields.io/badge/Lovable-FF5A7A?style=for-the-badge&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/Base44-7c3aed?style=for-the-badge&amp;logoColor=white"/>
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+
+![Embedded C](https://img.shields.io/badge/Embedded_C-00599C?style=flat-square&logo=c&logoColor=white)
+
+![ESP-NOW](https://img.shields.io/badge/ESP--NOW-1a1a2e?style=flat-square)
+
+![MQ3 Sensor](https://img.shields.io/badge/MQ3_Sensor-10b981?style=flat-square)
+
+![MPU6050](https://img.shields.io/badge/MPU6050-7c3aed?style=flat-square)
+
+![IR Sensor](https://img.shields.io/badge/IR_Sensor-06b6d4?style=flat-square)
+
+![Telegram Bot](https://img.shields.io/badge/Telegram_Bot-26A5E4?style=flat-square&logo=telegram&logoColor=white)
+
+![Automation](https://img.shields.io/badge/Automation-f59e0b?style=flat-square)
 
 </td>
 
@@ -245,37 +240,27 @@ Chennai, India
 
 </table>
 
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                        PROJECTS                             -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+# 🚀 FEATURED PROJECTS
+
 <br/>
 
-<div align="center">
-
-🌌 Technology Constellation
-
-<img src="https://skillicons.dev/icons?i=c,cpp,html,python,git,vscode&amp;theme=dark&amp;perline=6"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/AI-8b5cf6?style=flat-square"/>
-<img src="https://img.shields.io/badge/ML-a855f7?style=flat-square"/>
-<img src="https://img.shields.io/badge/Data-06b6d4?style=flat-square"/>
-<img src="https://img.shields.io/badge/Analytics-14b8a6?style=flat-square"/>
-<img src="https://img.shields.io/badge/Innovation-f472b6?style=flat-square"/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=17&duration=2800&pause=800&color=9D4EDD&center=true&vCenter=true&width=700&lines=Ideas+%E2%86%92+Experiments+%E2%86%92+Projects+%E2%86%92+Impact+%E2%9C%A8;Building+solutions+that+make+a+difference+%F0%9F%9A%80"/>
 
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<!--                         PROJECTS                            -->
+<br/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-🚀 Mission Control — Projects
-
-Ideas launched into the digital universe
-
-</div>
+<!-- PROJECT 1 + PROJECT 2                                      -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 <table>
 
@@ -283,329 +268,175 @@ Ideas launched into the digital universe
 
 <td width="50%" valign="top">
 
-🌱 Eco Hero Academy
+# 🌱 Eco Hero Academy
+
+### 🎮 Eco-friendly Gamified Platform
+
+An **eco-friendly gamified platform for students**, designed to make environmental learning more engaging, interactive and enjoyable.
+
+### ✨ Key Features
+
+- 🌍 Environmental awareness
+- 🎮 Gamified learning
+- 🧑‍🎓 Student-focused experience
+- 🌱 Eco-friendly challenges
+- 🏆 Interactive activities
+- 💡 Sustainability-focused learning
+
+<br/>
 
 <a href="https://eco-hero-academy-d09f854e.base44.app">
 
-<img src="https://img.shields.io/badge/🚀_EXPLORE_PROJECT-10b981?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌐_VIEW_PROJECT-7B2CBF?style=for-the-badge"/>
 
 </a>
-
-<br/><br/>
-
-An eco-friendly gamified platform for students, designed to encourage environmental awareness and sustainable habits through interactive learning.
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Education-3b82f6?style=flat-square"/>
-<img src="https://img.shields.io/badge/Gamification-7c3aed?style=flat-square"/>
-<img src="https://img.shields.io/badge/Sustainability-10b981?style=flat-square"/>
 
 </td>
 
 <td width="50%" valign="top">
 
-🌾 Vana Setu
+# 🌾 Vana Setu
+
+### 🤝 SDG-focused Farmer Support Platform
+
+A **farmer support platform inspired by SIH 2025**, focusing on Sustainable Development Goals and technology-driven agricultural assistance.
+
+### ✨ Key Features
+
+- 🌾 Farmer support
+- 🌍 SDG-focused solution
+- 📊 Agricultural assistance
+- 💡 Digital technology
+- 🤝 Farmer-centric approach
+- 🚀 SIH 2025 inspired
+
+<br/>
 
 <a href="https://lovable.dev/preview/2yLqdez72Hguas53DJpeO7s1Ue60Tc1E">
 
-<img src="https://img.shields.io/badge/🚀_EXPLORE_PROJECT-10b981?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌐_VIEW_PROJECT-9D4EDD?style=for-the-badge"/>
 
 </a>
-
-<br/><br/>
-
-An SDG-focused farmer support platform inspired by SIH 2025, using technology to support farmers and sustainable development.
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/SDG-10b981?style=flat-square"/>
-<img src="https://img.shields.io/badge/AgriTech-22c55e?style=flat-square"/>
-<img src="https://img.shields.io/badge/SIH_2025-7c3aed?style=flat-square"/>
 
 </td>
 
 </tr>
 
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- PROJECT 3 + PROJECT 4                                      -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
 <tr>
 
 <td width="50%" valign="top">
 
-🌦️ Weather GPT
+# 🌦️ Weather GPT
+
+### 🤖 Conversational AI Weather Assistant
+
+A **conversational AI platform for weather information**, making forecasts, alerts and climate information easily accessible through **Telegram**.
+
+Inspired by **SIH 2026**.
+
+### ✨ Key Features
+
+- 🌤️ Weather forecasts
+- 🚨 Weather alerts
+- 🌍 Climate information
+- 💬 Conversational AI
+- 📱 Telegram accessibility
+- 🤖 Natural-language interaction
+- 📍 Location-based weather information
+
+<br/>
 
 <a href="https://t.me/weatherpromptobot">
 
-<img src="https://img.shields.io/badge/🤖_OPEN_TELEGRAM_BOT-26A5E4?style=for-the-badge&amp;logo=telegram&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/🤖_TRY_WEATHER_GPT-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
 
 </a>
-
-<br/><br/>
-
-A conversational AI weather assistant providing weather forecasts, alerts and climate information through Telegram. Inspired by SIH 2026.
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Conversational_AI-7c3aed?style=flat-square"/>
-<img src="https://img.shields.io/badge/Weather-06b6d4?style=flat-square"/>
-<img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&amp;logo=telegram&amp;logoColor=white"/>
 
 </td>
 
 <td width="50%" valign="top">
 
-🫁 Respiratory System Interactive Study Guide
+# 🫁 Respiratory System Interactive Study Guide
+
+### 📚 Medical Coding Learning Tool
+
+An **interactive study guide for medical coding students of Horizon Coding Solutions**, created to make respiratory-system learning more visual and engaging.
+
+### ✨ Key Features
+
+- 🫁 Respiratory system learning
+- 📚 Interactive study material
+- 🩺 Medical coding education
+- 🎓 Student-focused content
+- 🧠 Visual learning
+- 💡 Interactive exploration
+
+<br/>
 
 <a href="https://ai.studio/apps/b792e07c-6b67-460d-82f2-8f356b2cac9a">
 
-<img src="https://img.shields.io/badge/🚀_EXPLORE_PROJECT-10b981?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌐_VIEW_PROJECT-7209B7?style=for-the-badge"/>
 
 </a>
-
-<br/><br/>
-
-Interactive study guide for medical coding students of Horizon Coding Solutions, designed to make respiratory system concepts easier to understand.
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Medical_Education-ef4444?style=flat-square"/>
-<img src="https://img.shields.io/badge/Interactive_Learning-7c3aed?style=flat-square"/>
-<img src="https://img.shields.io/badge/Study_Guide-06b6d4?style=flat-square"/>
 
 </td>
 
 </tr>
 
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- PROJECT 5 + FUTURE                                        -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
 <tr>
 
 <td width="50%" valign="top">
 
-🗺️ Miles and Memories
+# 🗺️ Miles & Memories
+
+### ✈️ Tourist Guide
+
+A **tourist guide project created during Soft Skills Training**, designed to provide an engaging travel and destination discovery experience.
+
+### ✨ Key Features
+
+- ✈️ Tourism
+- 🗺️ Travel guidance
+- 📍 Destination discovery
+- 💡 Interactive experience
+- 🎨 Creative presentation
+- 🌍 Travel information
+
+<br/>
 
 <a href="https://ai.studio/apps/4a74e3cb-82bb-40ff-8d09-7926912a9e1c">
 
-<img src="https://img.shields.io/badge/🚀_EXPLORE_PROJECT-10b981?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌐_VIEW_PROJECT-4361EE?style=for-the-badge"/>
 
 </a>
 
-<br/><br/>
-
-A tourist guide application created during a soft skills training class to help users explore destinations and create memorable travel experiences.
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Tourism-06b6d4?style=flat-square"/>
-<img src="https://img.shields.io/badge/Tourist_Guide-7c3aed?style=flat-square"/>
-<img src="https://img.shields.io/badge/Soft_Skills-10b981?style=flat-square"/>
-
 </td>
 
 <td width="50%" valign="top">
 
-🌌 Building With Purpose
-
-<br/>
-
-🌱 Sustainability
-
-🌾 Agriculture
-
-🌦️ Weather & Climate
-
-🫁 Healthcare Education
-
-🤖 Artificial Intelligence
-
-📚 Interactive Learning
-
-<br/><br/>
-
-Technology becomes meaningful when it solves real problems.
-
-</td>
-
-</tr>
-
-</table>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<!--                    ACHIEVEMENTS                             -->
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-🏆 Achievements & Participation
-
-<br/>
-
-<img src="https://img.shields.io/badge/🥇_WINNER-Makethon_2.0-f59e0b?style=for-the-badge"/>
-&nbsp;
-<img src="https://img.shields.io/badge/🚀_PARTICIPATED-Eclearnix_Hackathon_360°-7c3aed?style=for-the-badge"/>
-&nbsp;
-<img src="https://img.shields.io/badge/🎯_SHORTLISTED-SIH_Internal_Level-06b6d4?style=for-the-badge"/>
-
-<br/><br/>
-
-<table align="center">
-<tr>
-<td align="center">
-
-🚀 Hackathon Journey
-
-Makethon 2.0
-🥇 Winner
-
-<br/>
-
-Eclearnix Hackathon 360 Degrees
-🚀 Participant
-
-<br/>
-
-Smart India Hackathon
-🎯 Shortlisted — Internal Level
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<!--                  CERTIFICATIONS                            -->
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-📜 Certifications & Courses
-
-Knowledge is another kind of superpower.
-
-</div>
-
-<table align="center">
-
-<tr>
-
-<td width="50%" valign="top">
-
-🏅 NPTEL
-
-🐍 Python for Data Science
-
-<br/>
-
-🏆 NASSCOM
-
-🤖 Artificial Intelligence, Machine Learning & Data Analytics
-
-🏅 Gold Medal
-
-<br/>
-
-🎓 Coursera
-
-🐍 Create Your First Python Program From UST
-
-📊 Introduction to Data Analysis
-
-📈 Overview of Data Visualization
-
-</td>
-
-<td width="50%" valign="top">
-
-💻 Infosys Springboard
-
-☕ Java Programming Fundamentals
-
-<br/>
-
-🛡️ Cisco
-
-🔐 Introduction to Cybersecurity
-
-💻 Operating Systems Support
-
-<br/>
-
-🧠 Additional Learning
-
-🐍 Object Oriented Programming using Python
-
-⚛️ ReactJS
-
-📊 Business Analysis & Process Management
-
-📈 Introduction to Data Analysis using Microsoft Excel
-
-📉 Trading In The Zone – Elementary
-
-</td>
-
-</tr>
-
-</table>
-
-<br/>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Continuous_Learning-∞-8b5cf6?style=for-the-badge"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Knowledge_Mode-ON-06b6d4?style=for-the-badge"/>
-
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<!--                     CODING                                 -->
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-💻 Coding Universe
-
-<br/>
-
-<a href="https://leetcode.com/JEBA_GRACY_C/">
-
-<img src="https://img.shields.io/badge/LeetCode-JEBA_GRACY_C-FFA116?style=for-the-badge&amp;logo=leetcode&amp;logoColor=black"/>
-
-</a>
-
-   
-
-<img src="https://img.shields.io/badge/Skillrack-430%2B_Problems_Solved-06b6d4?style=for-the-badge"/>
-
-<br/><br/>
-
-🧩 Problem Solving
-
-          ┌───────────────────────────┐
-          │       CODING JOURNEY      │
-          └─────────────┬─────────────┘
-                        │
-                 ┌──────▼──────┐
-                 │   PRACTICE  │
-                 └──────┬──────┘
-                        │
-                 ┌──────▼──────┐
-                 │   SOLVE     │
-                 └──────┬──────┘
-                        │
-                 ┌──────▼──────┐
-                 │   LEARN     │
-                 └──────┬──────┘
-                        │
-                 ┌──────▼──────┐
-                 │   IMPROVE   │
-                 └──────┬──────┘
-                        │
-                 ┌──────▼──────┐
-                 │   REPEAT ♾️ │
-                 └─────────────┘
+# 🌌 What's Next?
+
+### 🚀 More Ideas Are Loading...
+
+```text
+╔════════════════════════════════════╗
+║                                    ║
+║       ✦  THE NEXT PROJECT  ✦      ║
+║                                    ║
+║        THINK  →  BUILD             ║
+║          ↓                         ║
+║        CREATE → IMPROVE            ║
+║          ↓                         ║
+║        SHARE → IMPACT              ║
+║                                    ║
+║          ████████░░ 80%            ║
+║                                    ║
+╚════════════════════════════════════╝

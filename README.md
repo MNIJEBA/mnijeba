@@ -4,7 +4,7 @@
 <!--                       COSMIC HERO                           -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:030014,25:10002b,50:240046,75:3c096c,100:030014&amp;height=300&amp;section=header&amp;text=JEBA%20GRACY%20C&amp;fontSize=58&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=M.Tech%20Computer%20Science%20%26%20Engineering%20%7C%20AI%20%26%20Data%20%7C%20Creative%20Builder&amp;descSize=15&amp;descAlignY=58&amp;animation=fadeIn&amp;stroke=9d4edd&amp;strokeWidth=2"/>
+![KEEP EXPLORING](https://capsule-render.vercel.app/api?type=waving&color=0:030014,25:10002b,50:240046,75:3c096c,100:030014&height=160&section=footer&text=KEEP%20EXPLORING%20%E2%9C%A8&fontSize=25&fontColor=ffffff&fontAlignY=65&animation=fadeIn)type=waving&amp;color=0:030014,25:10002b,50:240046,75:3c096c,100:030014&amp;height=300&amp;section=header&amp;text=JEBA%20GRACY%20C&amp;fontSize=58&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=M.Tech%20Computer%20Science%20%26%20Engineering%20%7C%20AI%20%26%20Data%20%7C%20Creative%20Builder&amp;descSize=15&amp;descAlignY=58&amp;animation=fadeIn&amp;stroke=9d4edd&amp;strokeWidth=2"/>
 
 <br/>
 

@@ -4,7 +4,7 @@
 <!--                       COSMIC HERO                           -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:030014,25:10002b,50:240046,75:3c096c,100:030014&height=300&section=header&text=JEBA%20GRACY%20C&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=M.Tech%20Computer%20Science%20%26%20Engineering%20%7C%20AI%20%26%20Data%20%7C%20Creative%20Builder&descSize=15&descAlignY=58&animation=fadeIn&stroke=9d4edd&strokeWidth=2"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:030014,25:10002b,50:240046,75:3c096c,100:030014&amp;height=300&amp;section=header&amp;text=JEBA%20GRACY%20C&amp;fontSize=58&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=M.Tech%20Computer%20Science%20%26%20Engineering%20%7C%20AI%20%26%20Data%20%7C%20Creative%20Builder&amp;descSize=15&amp;descAlignY=58&amp;animation=fadeIn&amp;stroke=9d4edd&amp;strokeWidth=2"/>
 
 <br/>
 
@@ -12,11 +12,9 @@
 <!--                       TYPING ANIMATION                      -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=19&duration=2600&pause=900&color=C77DFF&center=true&vCenter=true&width=850&lines=M.Tech+Computer+Science+%26+Engineering+%F0%9F%92%BB;C+%7C+C%2B%2B+%7C+HTML+%7C+Python+%F0%9F%90%8D;AI+%26+Data+Analytics+Enthusiast+%F0%9F%A4%96;Creative+Problem+Solver+%F0%9F%8C%8C;Building+Ideas+into+Interactive+Experiences+%E2%9C%A8;Always+Learning.+Always+Creating.+%F0%9F%9A%80"/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&amp;size=19&amp;duration=2600&amp;pause=900&amp;color=C77DFF&amp;center=true&amp;vCenter=true&amp;width=850&amp;lines=M.Tech+Computer+Science+%26+Engineering+%F0%9F%92%BB;C+%7C+C%2B%2B+%7C+HTML+%7C+Python+%F0%9F%90%8D;AI+%26+Data+Analytics+Enthusiast+%F0%9F%A4%96;Creative+Problem+Solver+%F0%9F%8C%8C;Building+Ideas+into+Interactive+Experiences+%E2%9C%A8;Always+Learning.+Always+Creating.+%F0%9F%9A%80"/>
 
 <br/><br/>
-
-<!-- Animated Developer GIF -->
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="450"/>
 
@@ -36,33 +34,23 @@
 <!--                         ABOUT ME                            -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<div align="center">
+# 👋 About Me
 
-# 🌌 ABOUT ME
+<img align="right" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
 
-</div>
+### Hi, I'm **Jeba Gracy C** 👩‍💻
 
-<img align="right" width="360" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
-
-### 👋 Hello, I'm **Jeba Gracy C**
-
-🎓 **M.Tech – Computer Science and Engineering**
-
+🎓 **M.Tech – Computer Science and Engineering**  
 🏫 **St. Joseph's College of Engineering**
 
-💻 Passionate about **Programming, Artificial Intelligence & Data Analytics**
+I'm passionate about **programming, artificial intelligence, data analytics and creative technology**.
 
-🐍 Currently learning and improving my **Python** skills
+💻 **Languages:** C, C++, HTML & Python *(Learning)*  
+🧰 **Tools:** Git, VS Code & Canva  
+🌐 **Platforms:** Kaggle, Replit, Lovable & Base44  
+🤖 **Interests:** AI, Machine Learning, Data Analytics & Interactive Applications
 
-🧠 Interested in **AI, Machine Learning and Data-driven solutions**
-
-📊 Exploring datasets and data science through **Kaggle**
-
-🎨 Enjoy creating attractive digital experiences using **Canva**
-
-🚀 Building projects using modern **AI-powered development platforms**
-
-🌱 Always curious to learn something new and turn ideas into useful projects.
+I enjoy turning ideas into **creative, useful and interactive digital solutions**.
 
 <br clear="all"/>
 
@@ -246,15 +234,9 @@ Smart Solutions
 <!--                        PROJECTS                             -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<div align="center">
+# 🚀 Featured Projects
 
-# 🚀 FEATURED PROJECTS
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=17&duration=2800&pause=800&color=9D4EDD&center=true&vCenter=true&width=700&lines=Ideas+%E2%86%92+Experiments+%E2%86%92+Projects+%E2%86%92+Impact+%E2%9C%A8;Building+solutions+that+make+a+difference+%F0%9F%9A%80"/>
-
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&amp;size=17&amp;duration=2800&amp;pause=800&amp;color=9D4EDD&amp;center=false&amp;vCenter=true&amp;width=700&amp;lines=Ideas+%E2%86%92+Experiments+%E2%86%92+Projects+%E2%86%92+Impact+%E2%9C%A8;Building+solutions+that+make+a+difference+%F0%9F%9A%80"/>
 
 <br/>
 

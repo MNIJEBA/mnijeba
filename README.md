@@ -1,24 +1,47 @@
 <div align="center">
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    COSMIC HERO BANNER                      -->
+<!--                 🌌 COSMIC ANIMATED HEADER                  -->
 <!-- ═══════════════════════════════════════════════════════════ -->
-<br>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:020617,20:0f172a,40:1e1b4b,60:312e81,80:172554,100:020617&amp;height=300&amp;section=header&amp;text=JEBA%20GRACY%20C&amp;fontSize=60&amp;fontColor=ffffff&amp;fontAlignY=40&amp;fontAlign=50&amp;desc=M.Tech%20Computer%20Science%20%26%20Engineering%20%7C%20Software%20Engineering&amp;descSize=14&amp;descAlignY=62&amp;descAlign=50&amp;animation=fadeIn&amp;stroke=8b5cf6&amp;strokeWidth=2"/>
+
+<img
+width="100%"
+src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:020617,20:0f172a,40:1e1b4b,60:312e81,80:172554,100:020617&amp;height=300&amp;section=header&amp;text=JEBA%20GRACY%20C&amp;fontSize=60&amp;fontColor=ffffff&amp;fontAlignY=40&amp;fontAlign=50&amp;desc=M.Tech%20Computer%20Science%20%26%20Engineering%20%7C%20Software%20Engineering&amp;descSize=14&amp;descAlignY=62&amp;descAlign=50&amp;animation=twinkling&amp;stroke=8b5cf6&amp;strokeWidth=2"
+/>
+
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--                     TYPING ANIMATION                        -->
+<!--                    ✨ TYPING ANIMATION                     -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <a href="https://git.io/typing-svg">
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&amp;size=18&amp;duration=2600&amp;pause=900&amp;color=67E8F9&amp;center=true&amp;vCenter=true&amp;width=850&amp;lines=Welcome+to+my+digital+universe+%F0%9F%8C%8C;M.Tech+Computer+Science+%26amp%3B+Engineering+Student+%F0%9F%92%BB;Software+Engineering+%26amp%3B+Problem+Solving+%F0%9F%9A%80;Building+Technology+with+Purpose+%F0%9F%8C%8D;Learning+%E2%86%92+Building+%E2%86%92+Innovating+%E2%9C%A8"/>
+<img
+src="https://readme-typing-svg.demolab.com?font=Space+Mono&amp;size=18&amp;duration=2600&amp;pause=900&amp;color=67E8F9&amp;center=true&amp;vCenter=true&amp;width=850&amp;lines=Welcome+to+my+digital+universe+%F0%9F%8C%8C;M.Tech+Computer+Science+%26+Engineering+Student+%F0%9F%92%BB;Software+Engineering+Enthusiast+%F0%9F%9A%80;Building+Technology+with+Purpose+%F0%9F%8C%8D;Hackathon+Participant+%7C+Problem+Solver+%7C+Learner+%F0%9F%92%A1;Learning+%E2%86%92+Building+%E2%86%92+Innovating+%E2%9C%A8"
+/>
 
 </a>
 
 <br/><br/>
 
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                  🌠 COSMIC STATUS BADGES                  -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<img src="https://img.shields.io/badge/🌌_DIGITAL_EXPLORER-020617?style=for-the-badge&amp;logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/💻_CSE-1e3a8a?style=for-the-badge&amp;logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/🚀_BUILDING_THE_FUTURE-7c3aed?style=for-the-badge&amp;logoColor=white"/>
+
+<br/><br/>
+
+<img
+src="https://komarev.com/ghpvc/?username=MNIJEBA&amp;style=for-the-badge&amp;color=7c3aed&amp;label=PROFILE+VISITORS"
+/>
+
+</div>
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                     COSMIC BADGES                           -->
 <!-- ═══════════════════════════════════════════════════════════ -->

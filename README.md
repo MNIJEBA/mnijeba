@@ -471,31 +471,7 @@ I enjoy creating technology solutions around:
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                     GITHUB STATS                        -->
-<!-- ═══════════════════════════════════════════════════════ -->
 
-<div align="center">
-
-## 📊 GitHub Analytics
-
-<br/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MNIJEBA&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=ffffff&icon_color=7c3aed&text_color=aaaacc"/>
-
-<img width="49%" src="https://streak-stats.demolab.com?user=MNIJEBA&theme=tokyonight-duo&hide_border=true&background=0a0a0a&ring=7c3aed&fire=06b6d4&currStreakLabel=ffffff&sideLabels=aaaacc&dates=555577"/>
-
-<br/><br/>
-
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MNIJEBA&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=ffffff&text_color=aaaacc"/>
-
-<br/><br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=MNIJEBA&bg_color=0a0a0a&color=7c3aed&line=06b6d4&point=10b981&area=true&hide_border=true"/>
-
-</div>
-
----
 
 <!-- ═══════════════════════════════════════════════════════ -->
 <!--                     CURRENT FOCUS                       -->

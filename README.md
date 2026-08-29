@@ -144,7 +144,7 @@ Smart Solutions
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=c,cpp,html,python&theme=dark&perline=4"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,html,python&amp;theme=dark&amp;perline=4"/>
 
 <br/><br/>
 
@@ -164,7 +164,7 @@ Smart Solutions
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=git,vscode&theme=dark&perline=3"/>
+<img src="https://skillicons.dev/icons?i=git,vscode&amp;theme=dark&amp;perline=3"/>
 
 <br/><br/>
 

@@ -60,7 +60,6 @@
 
 <br/>
 
-<table align="center">
 <tr>
 
 <td width="55%" valign="top">
@@ -89,14 +88,11 @@
 
 </td>
 
-<td width="45%" align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MNIJEBA&amp;bg_color=020617&amp;color=a78bfa&amp;line=22d3ee&amp;point=f0abfc&amp;area=true&amp;hide_border=true"/>
 
 </td>
 
 </tr>
-</table>
 
 ---
 

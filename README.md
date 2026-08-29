@@ -4,7 +4,7 @@
 <!--                       COSMIC HERO                           -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-![KEEP EXPLORING](https://capsule-render.vercel.app/api?type=waving&color=0:030014,25:10002b,50:240046,75:3c096c,100:030014&height=160&section=footer&text=KEEP%20EXPLORING%20%E2%9C%A8&fontSize=25&fontColor=ffffff&fontAlignY=65&animation=fadeIn)type=waving&amp;color=0:030014,25:10002b,50:240046,75:3c096c,100:030014&amp;height=300&amp;section=header&amp;text=JEBA%20GRACY%20C&amp;fontSize=58&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=M.Tech%20Computer%20Science%20%26%20Engineering%20%7C%20AI%20%26%20Data%20%7C%20Creative%20Builder&amp;descSize=15&amp;descAlignY=58&amp;animation=fadeIn&amp;stroke=9d4edd&amp;strokeWidth=2"/>
+![JEBA GRACY C](https://capsule-render.vercel.app/api?type=waving&color=0:030014,25:10002b,50:240046,75:3c096c,100:030014&height=300&section=header&text=JEBA%20GRACY%20C&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=M.Tech%20Computer%20Science%20and%20Engineering%20%7C%20AI%20and%20Data%20%7C%20Creative%20Builder&descSize=15&descAlignY=58&animation=fadeIn&stroke=9d4edd&strokeWidth=2)
 
 <br/>
 
@@ -12,7 +12,7 @@
 <!--                       TYPING ANIMATION                      -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&amp;size=19&amp;duration=2600&amp;pause=900&amp;color=C77DFF&amp;center=true&amp;vCenter=true&amp;width=850&amp;lines=M.Tech+Computer+Science+%26+Engineering+%F0%9F%92%BB;C+%7C+C%2B%2B+%7C+HTML+%7C+Python+%F0%9F%90%8D;AI+%26+Data+Analytics+Enthusiast+%F0%9F%A4%96;Creative+Problem+Solver+%F0%9F%8C%8C;Building+Ideas+into+Interactive+Experiences+%E2%9C%A8;Always+Learning.+Always+Creating.+%F0%9F%9A%80"/>
+![Typing Animation](https://readme-typing-svg.demolab.com?font=Space+Mono&size=19&duration=2600&pause=900&color=C77DFF&center=true&vCenter=true&width=850&lines=M.Tech+Computer+Science+and+Engineering+%F0%9F%92%BB;C+%7C+C%2B%2B+%7C+HTML+%7C+Python+%F0%9F%90%8D;AI+and+Data+Analytics+Enthusiast+%F0%9F%A4%96;Creative+Problem+Solver+%F0%9F%8C%8C;Building+Ideas+into+Interactive+Experiences+%E2%9C%A8;Always+Learning.+Always+Creating.+%F0%9F%9A%80)
 
 <br/><br/>
 
@@ -29,10 +29,6 @@
 </div>
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                         ABOUT ME                            -->
-<!-- ═══════════════════════════════════════════════════════════ -->
 
 # 👋 About Me
 
@@ -55,10 +51,6 @@ I enjoy turning ideas into **creative, useful and interactive digital solutions*
 <br clear="all"/>
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    PROFILE HIGHLIGHTS                       -->
-<!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -124,6 +116,7 @@ Smart Solutions
 
 ---
 
+
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                    SKILLS & TECH STACK                      -->
 <!-- ═══════════════════════════════════════════════════════════ -->
@@ -144,7 +137,7 @@ Smart Solutions
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=c,cpp,html,python&amp;theme=dark&amp;perline=4"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,html,python&theme=dark&perline=4"/>
 
 <br/><br/>
 
@@ -164,7 +157,7 @@ Smart Solutions
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=git,vscode&amp;theme=dark&amp;perline=3"/>
+<img src="https://skillicons.dev/icons?i=git,vscode&theme=dark&perline=3"/>
 
 <br/><br/>
 
@@ -229,196 +222,3 @@ Smart Solutions
 </table>
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                        PROJECTS                             -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-# 🚀 Featured Projects
-
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&amp;size=17&amp;duration=2800&amp;pause=800&amp;color=9D4EDD&amp;center=false&amp;vCenter=true&amp;width=700&amp;lines=Ideas+%E2%86%92+Experiments+%E2%86%92+Projects+%E2%86%92+Impact+%E2%9C%A8;Building+solutions+that+make+a+difference+%F0%9F%9A%80"/>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!-- PROJECT 1 + PROJECT 2                                      -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<table>
-
-<tr>
-
-<td width="50%" valign="top">
-
-# 🌱 Eco Hero Academy
-
-### 🎮 Eco-friendly Gamified Platform
-
-An **eco-friendly gamified platform for students**, designed to make environmental learning more engaging, interactive and enjoyable.
-
-### ✨ Key Features
-
-- 🌍 Environmental awareness
-- 🎮 Gamified learning
-- 🧑‍🎓 Student-focused experience
-- 🌱 Eco-friendly challenges
-- 🏆 Interactive activities
-- 💡 Sustainability-focused learning
-
-<br/>
-
-<a href="https://eco-hero-academy-d09f854e.base44.app">
-
-<img src="https://img.shields.io/badge/🌐_VIEW_PROJECT-7B2CBF?style=for-the-badge"/>
-
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-# 🌾 Vana Setu
-
-### 🤝 SDG-focused Farmer Support Platform
-
-A **farmer support platform inspired by SIH 2025**, focusing on Sustainable Development Goals and technology-driven agricultural assistance.
-
-### ✨ Key Features
-
-- 🌾 Farmer support
-- 🌍 SDG-focused solution
-- 📊 Agricultural assistance
-- 💡 Digital technology
-- 🤝 Farmer-centric approach
-- 🚀 SIH 2025 inspired
-
-<br/>
-
-<a href="https://lovable.dev/preview/2yLqdez72Hguas53DJpeO7s1Ue60Tc1E">
-
-<img src="https://img.shields.io/badge/🌐_VIEW_PROJECT-9D4EDD?style=for-the-badge"/>
-
-</a>
-
-</td>
-
-</tr>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!-- PROJECT 3 + PROJECT 4                                      -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<tr>
-
-<td width="50%" valign="top">
-
-# 🌦️ Weather GPT
-
-### 🤖 Conversational AI Weather Assistant
-
-A **conversational AI platform for weather information**, making forecasts, alerts and climate information easily accessible through **Telegram**.
-
-Inspired by **SIH 2026**.
-
-### ✨ Key Features
-
-- 🌤️ Weather forecasts
-- 🚨 Weather alerts
-- 🌍 Climate information
-- 💬 Conversational AI
-- 📱 Telegram accessibility
-- 🤖 Natural-language interaction
-- 📍 Location-based weather information
-
-<br/>
-
-<a href="https://t.me/weatherpromptobot">
-
-<img src="https://img.shields.io/badge/🤖_TRY_WEATHER_GPT-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
-
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-# 🫁 Respiratory System Interactive Study Guide
-
-### 📚 Medical Coding Learning Tool
-
-An **interactive study guide for medical coding students of Horizon Coding Solutions**, created to make respiratory-system learning more visual and engaging.
-
-### ✨ Key Features
-
-- 🫁 Respiratory system learning
-- 📚 Interactive study material
-- 🩺 Medical coding education
-- 🎓 Student-focused content
-- 🧠 Visual learning
-- 💡 Interactive exploration
-
-<br/>
-
-<a href="https://ai.studio/apps/b792e07c-6b67-460d-82f2-8f356b2cac9a">
-
-<img src="https://img.shields.io/badge/🌐_VIEW_PROJECT-7209B7?style=for-the-badge"/>
-
-</a>
-
-</td>
-
-</tr>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!-- PROJECT 5 + FUTURE                                        -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<tr>
-
-<td width="50%" valign="top">
-
-# 🗺️ Miles & Memories
-
-### ✈️ Tourist Guide
-
-A **tourist guide project created during Soft Skills Training**, designed to provide an engaging travel and destination discovery experience.
-
-### ✨ Key Features
-
-- ✈️ Tourism
-- 🗺️ Travel guidance
-- 📍 Destination discovery
-- 💡 Interactive experience
-- 🎨 Creative presentation
-- 🌍 Travel information
-
-<br/>
-
-<a href="https://ai.studio/apps/4a74e3cb-82bb-40ff-8d09-7926912a9e1c">
-
-<img src="https://img.shields.io/badge/🌐_VIEW_PROJECT-4361EE?style=for-the-badge"/>
-
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-# 🌌 What's Next?
-
-### 🚀 More Ideas Are Loading...
-
-```text
-╔════════════════════════════════════╗
-║                                    ║
-║       ✦  THE NEXT PROJECT  ✦      ║
-║                                    ║
-║        THINK  →  BUILD             ║
-║          ↓                         ║
-║        CREATE → IMPROVE            ║
-║          ↓                         ║
-║        SHARE → IMPACT              ║
-║                                    ║
-║          ████████░░ 80%            ║
-║                                    ║
-╚════════════════════════════════════╝

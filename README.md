@@ -3,7 +3,7 @@
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                    COSMIC HERO BANNER                      -->
 <!-- ═══════════════════════════════════════════════════════════ -->
-
+<br>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:020617,20:0f172a,40:1e1b4b,60:312e81,80:172554,100:020617&amp;height=300&amp;section=header&amp;text=JEBA%20GRACY%20C&amp;fontSize=60&amp;fontColor=ffffff&amp;fontAlignY=40&amp;fontAlign=50&amp;desc=M.Tech%20Computer%20Science%20%26%20Engineering%20%7C%20Software%20Engineering&amp;descSize=14&amp;descAlignY=62&amp;descAlign=50&amp;animation=fadeIn&amp;stroke=8b5cf6&amp;strokeWidth=2"/>
 <br/>
 
